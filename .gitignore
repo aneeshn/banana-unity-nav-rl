@@ -1,0 +1,7 @@
+#Environments
+venv/
+
+#IDE
+.idea/
+*.iml
+*.iwsadd
